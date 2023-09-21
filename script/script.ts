@@ -1,0 +1,10 @@
+import { PanelManager } from "../models/panelManager.js";
+const element: HTMLElement | null = document.querySelector(".panelManagerMain");
+const panelMenager = new PanelManager();
+panelMenager.user.firstName = "Mateusz";
+panelMenager.user.lastName = "Osikowski";
+panelMenager.render(element);
+const panelMenager3 = new PanelManager();
+panelMenager3.user.firstName = "Mateusz";
+panelMenager3.user.lastName = "Osikowski";
+panelMenager3.render(element);

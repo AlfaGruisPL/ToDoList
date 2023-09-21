@@ -1,0 +1,12 @@
+.panelManager {
+  min-width: 500px;
+  min-height: 500px;
+  background: #cbcbcb;
+}
+
+.panelManagerMain {
+  display: flex;
+  gap: 20px;
+}
+
+/*# sourceMappingURL=panelManager.css.map */

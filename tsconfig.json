@@ -1,0 +1,12 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es6",
+    "sourceMap": true,
+    "useDefineForClassFields": false,
+    "strict": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

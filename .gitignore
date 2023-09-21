@@ -1,0 +1,9 @@
+# Project exclude paths
+/models/panel.js
+/models/panel.js.map
+/models/panelManager.js
+/models/panelManager.js.map
+/models/task.js
+/models/task.js.map
+/script/script.js
+/script/script.js.map
